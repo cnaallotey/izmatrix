@@ -12,7 +12,7 @@ const closeErrorNot = () => {
 
 const submitForm = async () => {
   const response = await $fetch(
-    "https://getform.io/f/d65f73c1-7df1-41ef-8c19-581db7b7aa17",
+    "https://getform.io/f/84ccb698-eb86-493d-b43a-37086b7d8109",
     {
       method: "POST",
       body: formData.value,
@@ -41,7 +41,7 @@ const submitForm = async () => {
               Send us a message
             </h2>
             <p class="text-sm md:text-base font-normal text-gray-500 leading-5 max-w-md">
-              Take the initiative and reach out to us by sending a message. We are here to assist you and provide prompt, personalized support. Whether you have inquiries about our services or need assistance with your real estate needs, our dedicated team is ready to respond and help you navigate the path to property success.
+              Take the initiative and reach out to us by sending a message. We are here to assist you and provide prompt, personalized support. 
 
             </p>
           </div>

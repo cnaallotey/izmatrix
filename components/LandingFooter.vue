@@ -2,19 +2,19 @@
 const socials = [
   {
     name: "facebook",
-    url: "https://www.facebook.com/KelitorGh/",
+    url: "#",
     class: "text-[#4267B2]",
     icon: "ri:facebook-circle-fill",
   },
   {
     name: "instagram",
-    url: "https://instagram.com/kelitor?igshid=YmMyMTA2M2Y=",
+    url: "#",
     class: "text-[#405DE6]",
     icon: "entypo-social:instagram-with-circle",
   },
   {
     name: "twitter",
-    url: "https://twitter.com/kelitor_RE",
+    url: "#",
     class: "text-blue-500",
     icon: "mdi:twitter-circle",
   },
